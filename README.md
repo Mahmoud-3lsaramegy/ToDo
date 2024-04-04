@@ -1,10 +1,15 @@
 # todo_app
 
-A new Flutter project.
+Project  4 For GDSC.
 
-## Getting Started
+## Getting Started Video
 
-This project is a starting point for a Flutter application.
+
+https://github.com/elsaramji/ToDo/assets/90051301/e38ce28c-dd54-4e08-b082-26642f16a176
+
+
+
+This project is a TODO App Using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
